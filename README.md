@@ -10,7 +10,8 @@ It's an easy and good way to improve my portfólio and curriculum besides making
 It will be in my curriculum, where employers can see and evaluate my techniques with web development.
 
 ## Desktop version
-
+![alt text](https://github.com/andraderafa72/I-Am-Developer/blob/main/website_screenshots/desktop-version.png?raw=true)
 ## Mobile version
-
+![alt text](https://github.com/andraderafa72/I-Am-Developer/blob/main/website_screenshots/mobile-version.PNG?raw=true)
 ### Menu toggled on mobile version
+![alt text](https://github.com/andraderafa72/I-Am-Developer/blob/main/website_screenshots/mobile-version-toggled.PNG?raw=true)
