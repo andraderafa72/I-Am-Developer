@@ -5,11 +5,9 @@
   --terceary-color: #DDEBEB;
 }
 
-html, body {
-  overflow-x: hidden;
-  overflow-y: hidden;
-}
+
 body{
+  overflow: hidden;
   background-color: var(--primary-color);
   max-width: 100vw;
   max-height: 100vh;
@@ -26,7 +24,7 @@ a:hover{
 }
 
 .body-bg img{
-  position: absolute;
+  position: fixed;
 }
 #img-1{
   bottom: -10px;
@@ -92,9 +90,9 @@ a:hover{
 
 .card{
   width: 28rem; 
-  min-height: 600px; 
+  height: 45rem; 
   padding: 20px 0;
-  margin: 0 auto; 
+  margin: 30px auto 10px; 
   background-image: url("../img/bg.png");
   background-color: var(--card-color);
   background-clip: padding-box;
@@ -174,7 +172,36 @@ a:hover{
   }
   .about-me, .technologies{
     width: 16rem;
+  }
 }
+
+@media(max-width:1400px){
+  .card{
+    height: 35rem;
+  }
+  .name{
+    font-size: 1.3rem;
+  }
+  .card-text{
+    font-size: 0.7rem;
+  }
+  #ellipse-1, #ellipse-2{
+    width: 350px;
+    height: 350px;
+  }
+  #ellipse-1{  
+    left: -150.13px;
+    top: -175px;
+    opacity: 0.7;
+  }
+  #ellipse-2{  
+    right: -150.13px;
+    bottom: -100px;
+  }
+  
+  body{
+    overflow-y: visible;
+  }
 }
 
 @media(max-width:767px){
@@ -212,9 +239,6 @@ a:hover{
     padding-left: 15px;
   }
 
-  html,body{
-    overflow-y: visible;
-  }
   .collapse {
     padding-left: 10px;
     background-color: var(--primary-color);
