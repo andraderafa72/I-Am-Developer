@@ -9,6 +9,8 @@ It's an easy and good way to improve my portfólio and curriculum besides making
 ## Where should I put it?
 It will be in my curriculum, where employers can see and evaluate my techniques with web development.
 ## Screenshots
+### Prototype
+https://www.figma.com/file/0OCgF1wvHRT9QU6dypQIqk/Untitled?node-id=1%3A53
 ### Desktop version
 ![alt text](https://github.com/andraderafa72/I-Am-Developer/blob/main/website_screenshots/desktop-version.png?raw=true)
 ### Mobile version
