@@ -8,6 +8,10 @@ Clone or Download the repository and open the 'index.html' in a Browser.
 It's an easy and good way to improve my portfólio and curriculum besides making the client well received by the programmer.
 ## Where should I put it?
 It will be in my curriculum, where employers can see and evaluate my techniques with web development.
+## Roadmap
+The project is completed and no changes are expected.
+## Project status
+Done.
 ## Screenshots
 ### Prototype
 https://www.figma.com/file/0OCgF1wvHRT9QU6dypQIqk/Untitled?node-id=1%3A53
